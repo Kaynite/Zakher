@@ -20,7 +20,7 @@ class SendMails extends Command
      *
      * @var string
      */
-    protected $description = 'Command description';
+    protected $description = 'Send Mails Every One hour (Task By Zakher)';
 
     /**
      * Create a new command instance.
